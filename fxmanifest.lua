@@ -1,6 +1,6 @@
 fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
-author 'https://github.com/Pintta'
+author 'https://github.com/Pintta/Broken-BusStops'
 description 'Broken-BusStops'
 client_script 'client.lua'
